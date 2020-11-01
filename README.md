@@ -8,5 +8,5 @@ An exercise for clone, commit and pullrequest.
  - create pull request
 
 # Build command
-  javac Calculator.java
-  java Calculator
+	javac Calculator.java
+	java Calculator
