@@ -5,8 +5,11 @@ An exercise for clone, commit and pullrequest.
  - fork the repository
  - create a new branch
  - fix all errors and add missing operators
- - create pull request
+ - create pull request with
 
-# Build command
+# Commands needed 
+  git clone
+  git commit
+  git request-pull
 	gcc calculator.c
 	./a.out 
