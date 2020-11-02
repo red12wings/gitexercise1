@@ -5,7 +5,7 @@ An exercise for clone, commit and pullrequest.
  - fork the repository
  - create a new branch
  - fix all errors and add missing operators
- - create pull request with
+ - create pull request and upload it in moodle
 
 # Commands needed 
   git clone
