@@ -8,8 +8,10 @@ An exercise for clone, commit and pullrequest.
  - create pull request and upload it in moodle
 
 # Commands needed 
-  git clone
-  git commit
-  git request-pull
+	git clone
+	git commit
+  	git request-pull
+Compile and test:
+
 	gcc calculator.c
 	./a.out 
